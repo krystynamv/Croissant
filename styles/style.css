@@ -2,10 +2,20 @@ body {
   text-align: center;
   background-color: antiquewhite;
 }
+h1 {
+  font-size: 48px;
+}
+h2 {
+  font-size: 36px;
+}
 
 a {
   color: blueviolet;
   margin: 10px;
+  font-size: 18px;
+}
+div a {
+  color: brown;
 }
 img {
   max-width: 600px;
