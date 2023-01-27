@@ -1,0 +1,14 @@
+body {
+  text-align: center;
+  background-color: antiquewhite;
+}
+
+a {
+  color: blueviolet;
+  margin: 10px;
+}
+img {
+  max-width: 600px;
+  display: block;
+  margin: 0 auto;
+}
